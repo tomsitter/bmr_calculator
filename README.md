@@ -15,3 +15,7 @@ This app is based off the [BMI calculator tutorial from LondonAppBrewery](https:
 ## To Do
 - Add horizontal layout
 - Switch between BMI and BMR calculation
+
+## Screenshots
+
+<img src="https://i.imgur.com/RRRowDU.jpg" width="100"> <img src="https://i.imgur.com/4PsDaia.jpg" width="100">
