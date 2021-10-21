@@ -18,4 +18,4 @@ This app is based off the [BMI calculator tutorial from LondonAppBrewery](https:
 
 ## Screenshots
 
-<img src="https://i.imgur.com/RRRowDU.jpg" width="100"> <img src="https://i.imgur.com/4PsDaia.jpg" width="100">
+<img src="https://i.imgur.com/RRRowDU.jpg" width="300"> <img src="https://i.imgur.com/4PsDaia.jpg" width="300">
