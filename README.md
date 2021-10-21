@@ -1,16 +1,17 @@
-# bmi_calculator
+# BMR Calculator
 
-A new Flutter project.
+A functioning basal metabolic rate calculator built with Flutter.
 
-## Getting Started
+This app is based off the [BMI calculator tutorial from LondonAppBrewery](https://github.com/londonappbrewery/BMI-Calculator-Flutter-Completed)
 
-This project is a starting point for a Flutter application.
+## Changes and Enhancements are:
+- Uses null Safety
+- Swaps BMI for a BMR calculation in order to use all of the input fields and renames app accordingly
+- Updated theme colours
+- Added LongPress functionality to round icon buttons for easier inputs
+- Weight in pounds instead of kg (Go Team Canada!)
+- Add app icons made by [freepik.com](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com/)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## To Do
+- Add horizontal layout
+- Switch between BMI and BMR calculation
